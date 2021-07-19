@@ -7,8 +7,3 @@ The circuit, that can both add and subtract two 15-bit integers and realize whet
 
 This project has been implemented for an undergraduate course CS303-Logic & Digital System Design at Sabanci University.
 
-## Contributors
-
-- Alp Cihan
-
-- Begüm Çelik
