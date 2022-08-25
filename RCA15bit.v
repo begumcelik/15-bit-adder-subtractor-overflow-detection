@@ -1,22 +1,11 @@
 `timescale 1ns / 1ps
 //////////////////////////////////////////////////////////////////////////////////
-// Company: 
-// Engineer: 
+// Engineer: Begum Celik
 // 
 // Create Date:    23:32:16 11/13/2019 
 // Design Name: 
 // Module Name:    RCA15bit 
 // Project Name: 
-// Target Devices: 
-// Tool versions: 
-// Description: 
-//
-// Dependencies: 
-//
-// Revision: 
-// Revision 0.01 - File Created
-// Additional Comments: 
-//
 //////////////////////////////////////////////////////////////////////////////////
 
 /*module fullAdder (A, B, Cin, S, Carry);*/
