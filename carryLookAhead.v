@@ -1,21 +1,11 @@
 `timescale 1ns / 1ps
 //////////////////////////////////////////////////////////////////////////////////
-// Company: 
-// Engineer: 
+// Engineer: Begum Celik
 // 
 // Create Date:    10:39:38 11/14/2019 
 // Design Name: 
 // Module Name:    carryLookAhead 
 // Project Name: 
-// Target Devices: 
-// Tool versions: 
-// Description: 
-//
-// Dependencies: 
-//
-// Revision: 
-// Revision 0.01 - File Created
-// Additional Comments: 
 //
 //////////////////////////////////////////////////////////////////////////////////
 module carryLookAhead(A, B, C0, Carry , S);
